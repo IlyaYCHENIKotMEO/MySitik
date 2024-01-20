@@ -1,0 +1,119 @@
+header {
+    min-width: 600px;
+    height: 150px;
+    background-color: black;
+}
+
+main {
+    min-width: 350px;
+    min-height: 2100px;
+    margin-left: 250px;
+    background-color: yellow;
+}
+
+nav {
+    min-height: 2210px;
+    width: 250px;
+    float: left;
+    background-color: black;
+    color: yellow;
+}
+*{
+    margin: 0;
+}
+.link {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2rem;
+    background-color: yellow;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 25px;
+    width: 195px;
+    height: 80px;
+    transition: all 1s ease 0s;
+    margin-top: 5px;
+ }
+.link:hover {
+    background-color: white;
+} 
+.link1 {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2rem;
+    background-color: yellow;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 25px;
+    width: 195px;
+    height: 50px;
+    transition: all 1s ease 0s;
+    margin-top: 5px;
+ }
+.link1:hover {
+    background-color: white;
+}     
+.link2 {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2rem;
+    background-color: yellow;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 25px;
+    width: 195px;
+    height: 110px;
+    transition: all 1s ease 0s;
+    margin-top: 5px;
+ }
+.link2:hover {
+    background-color: white;
+}     
+.link3 {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2rem;
+    background-color: yellow;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 25px;
+    width: 195px;
+    height: 110px;
+    transition: all 1s ease 0s;
+    margin-top: 5px;
+ }
+.link3:hover {
+    background-color: white;
+}  
+.link4 {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2rem;
+    background-color: yellow;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 25px;
+    width: 195px;
+    height: 110px;
+    transition: all 1s ease 0s;
+    margin-top: 5px;
+ }
+.link4:hover {
+    background-color: white;
+} 
+.link5 {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2rem;
+    background-color: yellow;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 25px;
+    width: 195px;
+    height: 140px;
+    transition: all 1s ease 0s;
+    margin-top: 5px;
+ }
+.link5:hover {
+    background-color: white;
+}
